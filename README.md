@@ -1,3 +1,3 @@
 # Docker Ruby on Rails Rails Stack
 
-## Repository moved to Seems Cloud organization ([link](https://github.com/seemscloud/docker-rails-on-rails-stack))
+## Repository moved to Seems Cloud organization ([link](https://github.com/seemscloud/docker-ruby-on-rails-stack))
